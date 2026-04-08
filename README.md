@@ -55,7 +55,8 @@ aluminum-strategy-agent/
 │
 └── docs/                            # 项目文档
     ├── Project Proposal.docx
-    └── Project Report.md
+    ├── Project Report.md
+    └── 系统架构图.png
 ```
 ---
 
