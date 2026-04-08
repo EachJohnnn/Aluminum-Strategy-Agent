@@ -28,8 +28,6 @@
 aluminum-strategy-agent/
 ├── README.md
 ├── LICENSE
-├── strategy_suggestions.csv         # 推理输出
-│
 ├── notebooks/                       # Jupyter Notebook分析流程
 │   ├── 1_Perception_Agent.ipynb
 │   ├── 2_AI_Reasoning_Agent.ipynb
